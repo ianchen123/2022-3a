@@ -7,3 +7,6 @@
 
 :smile:
 ![](nkust.png)
+
+- [ ] todo list
+- [x] done
